@@ -1,7 +1,6 @@
 <template>
 
-    <h1>Abel Muñoz Rivas</h1>
-  
+  <h1>Abel Muñoz Rivas, Informático</h1>
 </template>
 
 <style>

@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
-import Abel from "../views/Abel.vue";
+import Abel from "../views/AbelMunoz.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -22,7 +22,7 @@ const router = createRouter({
       path: "/Abel",
       name: "abel",
       component: Abel,
-    }
+    },
   ],
 });
 
